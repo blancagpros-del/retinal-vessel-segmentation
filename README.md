@@ -62,7 +62,7 @@ Unsupervised segmentation pipelines like this one are relevant wherever labeled 
 ├── requirements.txt
 └── README.md
 ```
-*(Adjust file names above to match your actual code files.)*
+
 
 ## Requirements
 
